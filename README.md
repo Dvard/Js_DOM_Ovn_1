@@ -2,7 +2,7 @@
 Grunder i programmering: JavaScript DOM-övning 1. 
 
 # Demo
-Live demo: [här](https://dvard.github.io/JS_DOM_Ovn_1)
+Live demo: [här](https://dvard.github.io/Js_DOM_Ovn_1/)
 
 ___
 
